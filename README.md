@@ -15,4 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-Todo App from tutorial: [Tutorial: Full Flutter Beginner Course](https://www.youtube.com/watch?v=HQ_ytw58tC4&t=7)
+Todo App from tutorial: [Tutorial: Full Flutter Beginner Course](https://youtu.be/HQ_ytw58tC4?si=EmtFlfrvVpZVHbkm&t=4257)
